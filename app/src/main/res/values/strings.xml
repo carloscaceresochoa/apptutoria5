@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutoria5App</string>
+    <string name="titulonombre">Digite el Nombre</string>
+    <string name="tituloedad">Digite la Edad</string>
+    <string name="esta">Digite la Estatura</string>
+    <string name="bool">Acepto</string>
+    <string name="enviar">Enviar</string>
+    <string name="titulo">Datos Persona</string>
+    <string name="masct">Masculino</string>
+    <string name="femt">Femenino</string>
+</resources>
